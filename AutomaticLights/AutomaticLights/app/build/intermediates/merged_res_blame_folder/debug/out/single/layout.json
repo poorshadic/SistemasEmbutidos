@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-mergeDebugResources-38:/layout/activity_light_status.xml",
+        "source": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-main-41:/layout/activity_light_status.xml"
+    },
+    {
+        "merged": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-mergeDebugResources-38:/layout/activity_registo.xml",
+        "source": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-main-41:/layout/activity_registo.xml"
+    },
+    {
+        "merged": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "/home/tiago/.gradle/daemon/8.0/com.example.automaticlights.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.automaticlights.app-mergeDebugResources-38:/layout/activity_light_status.xml",
+        "source": "com.example.automaticlights.app-main-41:/layout/activity_light_status.xml"
+    }
+]
